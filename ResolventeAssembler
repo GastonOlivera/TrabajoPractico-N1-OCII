@@ -1,0 +1,40 @@
+%include "io.inc"
+section .data
+dos dq 2.0
+cuatro dq 4.0
+A dq 1.0
+B dq -1.0
+C dq -12.0
+forma1 db "Raiz 1: %f",10,0
+forma2 db "Raiz2 : %f",10,0
+
+section .bss
+BNegativo resq 1
+Bcuadrado resq 1
+CuatroxAxC resq 1
+Discriminante resq 1
+RaizDeDiscriminante resq 1
+dosxA resq 1
+ResulMas resq 1
+ResulMenos resq 1
+
+
+
+
+
+section .text
+global CMAIN
+extern printf
+
+CMAIN:
+    mov ebp, esp;for correct debugging
+    
+    
+    
+ 
+    
+    
+    
+    
+    
+    
