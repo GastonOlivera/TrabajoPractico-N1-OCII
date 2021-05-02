@@ -1,0 +1,78 @@
+section .text
+global CMAIN
+extern printf
+
+CMAIN:
+    mov ebp, esp
+    finit 
+    ;-B
+    fld qword [B]
+    fchs
+    fst qword [BNegativo]
+    
+    
+    finit 
+    ;BCuadrado
+    fld qword [B]
+    fmul st0,st0
+    fst qword [Bcuadrado]
+    
+    finit 
+    ;4xA
+    fld qword [cuatro]
+    fld qword [A]
+    fmul
+    ;xC
+    fld qword [C]
+    fmul 
+    fst qword [CuatroxAxC]
+    
+    finit 
+    ;Discriminante 
+    fld qword [Bcuadrado]
+    fld qword [CuatroxAxC]
+    fsub 
+    fst qword [Discriminante]
+    
+    
+    finit 
+    ;raiz
+    fld qword [Discriminante]
+    fsqrt
+    fst qword [RaizDeDiscriminante] 
+    
+    finit 
+    ;2xA
+    fld qword [dos]
+    fld qword [A]
+    fmul
+    fst qword [dosxA]
+    
+    finit 
+    ;Resul1 
+    fld qword [BNegativo]
+    fld qword [RaizDeDiscriminante]
+    fadd
+    fld qword [dosxA]
+    fdiv
+    fst qword [ResulMas]
+    
+    finit 
+    ;Resul1 
+    fld qword [BNegativo]
+    fld qword [RaizDeDiscriminante]
+    fsub
+    fld qword [dosxA]
+    fdiv
+    fst qword [ResulMenos]
+    
+    
+    
+    push dword [ResulMenos+4]
+    push dword [ResulMenos]
+    push forma1
+    call printf
+    add ESP ,12
+    ret
+    
+ 
