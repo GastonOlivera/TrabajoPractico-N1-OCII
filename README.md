@@ -52,10 +52,11 @@ Asi llegamos al final del ejercicio funcionando correctamente!
 
 # ¿Como ejecutar?
 Tenemos dos opciones para ejecutar el programa , en ambas tenemos que descargar este repositorio desde la terminal con git clone: 
+En la carpeta formula resolvente:
 - Abrimos una terminal en la carpeta descargada y escribimos el comando 
 ./TP
 
--Ejecutamos directamente el archivo scrpt.sh que se encuentra en la carpeta.
+-Abrimos la terminal y escribimos el comando bash script.sh
 
 # Sobre los ejercicios obligatorios
 
