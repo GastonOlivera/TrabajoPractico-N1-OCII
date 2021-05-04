@@ -56,9 +56,7 @@ El ejercicio 4 de FPU esta subido al repositorio como un archivo de texto , el c
 # Sobre mi 
 Mi nombre es Gaston Olivera estoy cursando la carrera de Licenciatura en Sistemas de la UNGS , actualmente trabajo como operario de produccion en una empresa de galletitas y soy hincha del Club Atletico River Plate. 
 
-**Tabla de contenidos** 
-[TOCM]
-[TOC]
+
 
 
 
