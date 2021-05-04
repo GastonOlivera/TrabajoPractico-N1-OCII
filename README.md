@@ -11,4 +11,6 @@ Este contiene:
 Este equivale al punto 1 del TP , al encarar este ejercicio se presentaron muchas dudas de como encararlo , asique , decidi comenzar realizando un programa en 
 assembler que con numeros ingresados manualmente , pueda realizar las operaciones de la fomula resolvente entendiendo que era escencial para continuar el ejercicio.
 
-https://raw.githubusercontent.com/GastonOlivera/TrabajoPractico-N1-OCII/master/ImagenRes.PNG
+![Aquí la descripción de la imagen por si no carga]
+(https://raw.githubusercontent.com/GastonOlivera/TrabajoPractico-N1-OCII/master/Image.PNG)
+ 
