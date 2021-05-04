@@ -1,4 +1,10 @@
-### Introduccion 
+
+## Table of Contents
+1. [Introduccion](Introduccion)
+2. [FormulaResolvente](Formula Resolvente)
+
+
+# Introduccion 
 En este repositorio se mostrara como fue el paso a paso para resolver el TP1 de la materia de Organizacion del computador II. 
 
 Este contiene:
