@@ -22,7 +22,6 @@ A este punto el ejercicio iba encaminado , hasta que llego el momento de linkear
 El ejercicio que resolvia la formula lo hacia en la fpu , la idea fue separar la resolvente en pequeños calculos y e ir guardando esos resultados en variables que se utilizan para obtener el resultado final.
 
 Al momento de linkear empiezo probando con enteros esto funciona correctamente , Pero al intentar linkear numero de punto flotanto a un programa pequeño de suma que sirvio como prueba aparece el primer error.
-
-![ImagenError1] (ImagenError1.PNG)
+![ImagenError1](ImagenError1.PNG)
 Este error todavia no enconre el porque sucedio solo se arreglo al copiar todo el archivo C en un nuevo archivo y ahi dfue que dejo crear el ejecutable.
 
