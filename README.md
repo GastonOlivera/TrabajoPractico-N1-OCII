@@ -1,6 +1,10 @@
 
 ## Table of Contents
 1. [Introduccion](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII/blob/master/README.md#introduccion)
+2. [FormulaResolvente] (https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#formula-resolvente)
+3. [ComoEjecutar] 
+4. [SobreEjerciciosObligatorios]
+5. [SobreMI]
 
 
 
