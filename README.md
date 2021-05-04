@@ -40,6 +40,35 @@ Pero seguia dando una violacion de segmento , la cual no encontre solucion , el 
 
 Asi llegamos al final del ejercicio funcionando correctamente! 
 
+#¿Como ejecutar?
+Tenemos dos opciones para ejecutar el programa , en ambas tenemos que descargar este repositorio desde la terminal con git clone: 
+- Abrimos una terminal en la carpeta descargada y escribimos el comando 
+./TP
+
+-Ejecutamos directamente el archivo scrpt.sh que se encuentra en la carpeta.
+
+#Sobre los ejercicios obligatorios
+Estos ejercicios se fueron resolviendo a medida que las clases fueron avanzando , no generaron una dificultad muy grande , el ejercicio numero 7 de memoria se puede encontrar en los dos excel's subidos al repositorio los cuales contienen la modificacion de cada tabla en la busqueda de cada pagina.
+
+El ejercicio 4 de FPU esta subido al repositorio como un archivo de texto , el cual funciona ejecutandolo en SASM.
+
+
+#Sobre mi 
+Mi nombre es Gaston Olivera estoy cursando la carrera de Licenciatura en Sistemas de la UNGS , actualmente trabajo como operario de produccion en una empresa de galletitas y soy hincha del Club Atletico River Plate. 
+
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
+#H1 header
+##H2 header
+###H3 header
+####H4 header
+#####H5 header
+######H6 header
+
 
 
 
