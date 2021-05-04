@@ -40,7 +40,7 @@ Pero seguia dando una violacion de segmento , la cual no encontre solucion , el 
 
 Asi llegamos al final del ejercicio funcionando correctamente! 
 
-#¿Como ejecutar?
+# ¿Como ejecutar?
 Tenemos dos opciones para ejecutar el programa , en ambas tenemos que descargar este repositorio desde la terminal con git clone: 
 - Abrimos una terminal en la carpeta descargada y escribimos el comando 
 ./TP
@@ -53,7 +53,7 @@ Estos ejercicios se fueron resolviendo a medida que las clases fueron avanzando 
 El ejercicio 4 de FPU esta subido al repositorio como un archivo de texto , el cual funciona ejecutandolo en SASM.
 
 
-#Sobre mi 
+# Sobre mi 
 Mi nombre es Gaston Olivera estoy cursando la carrera de Licenciatura en Sistemas de la UNGS , actualmente trabajo como operario de produccion en una empresa de galletitas y soy hincha del Club Atletico River Plate. 
 
 **Table of Contents**
@@ -62,12 +62,12 @@ Mi nombre es Gaston Olivera estoy cursando la carrera de Licenciatura en Sistema
 
 [TOC]
 
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
+# H1 header
+## H2 header
+### H3 header
+#### H4 header
+##### H5 header
+###### H6 header
 
 
 
