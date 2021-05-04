@@ -30,4 +30,18 @@ Al poder crear el ejecutable se carga el numero , y genera un nuevo error.
 
 ![Error2](Error2.jpg)
 
+Este error fue de los mas dificiles de solucionar y se acudio a la ayuda de los profesores , el cual recomendo inicializar de distintas formas las variables donde se iban a guardar los numeros pasados por C que estaban inicializadas como variables vacias , y pasaron a inicializarse como 0.0 , y esa fue la solucion! 
+
+![Error3](Error3.jfif)
+
+Pero seguia dando una violacion de segmento , la cual no encontre solucion , el ultimo paso fue cargar de la misma manera las variables en el codigo de la formula resolvente y FUNCIONO! , hasta quedo eliminada la violacion de segmento.
+
+![Funciona!](Funciona!.jpg)
+
+Asi llegamos al final del ejercicio funcionando correctamente! 
+
+
+
+
+
 
