@@ -1,10 +1,10 @@
 
 ## Tabla de contenidos
 1. [Introduccion](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII/blob/master/README.md#introduccion)
-2. [FormulaResolvente](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#formula-resolvente) 
-3. [ComoEjecutar](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#como-ejecutar)
-4. [SobreEjerciciosObligatorios](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#sobre-los-ejercicios-obligatorios)
-5. [SobreMI](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#sobre-mi)
+2. [Formula Resolvente](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#formula-resolvente) 
+3. [Como Ejecutar](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#como-ejecutar)
+4. [Sobre Ejercicios Obligatorios](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#sobre-los-ejercicios-obligatorios)
+5. [Sobre MI](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII#sobre-mi)
 
 
 
