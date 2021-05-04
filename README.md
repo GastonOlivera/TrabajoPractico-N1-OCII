@@ -1,7 +1,7 @@
 
 ## Table of Contents
-1. [Introduccion](Introduccion)
-2. [FormulaResolvente](Formula Resolvente)
+1. [Introduccion](https://github.com/GastonOlivera/TrabajoPractico-N1-OCII/blob/master/README.md#introduccion)
+
 
 
 # Introduccion 
