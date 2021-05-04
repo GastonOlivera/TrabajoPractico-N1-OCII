@@ -47,7 +47,8 @@ Tenemos dos opciones para ejecutar el programa , en ambas tenemos que descargar 
 
 -Ejecutamos directamente el archivo scrpt.sh que se encuentra en la carpeta.
 
-#Sobre los ejercicios obligatorios
+# Sobre los ejercicios obligatorios
+
 Estos ejercicios se fueron resolviendo a medida que las clases fueron avanzando , no generaron una dificultad muy grande , el ejercicio numero 7 de memoria se puede encontrar en los dos excel's subidos al repositorio los cuales contienen la modificacion de cada tabla en la busqueda de cada pagina.
 
 El ejercicio 4 de FPU esta subido al repositorio como un archivo de texto , el cual funciona ejecutandolo en SASM.
